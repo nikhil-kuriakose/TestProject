@@ -1,2 +1,4 @@
 n = input("input something please: ")
-print('Hello %s Dude!'%n);
+for i in range(4):
+    print('Hello %s Buddy!'%n);
+
