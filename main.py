@@ -1,2 +1,2 @@
-n = input("something")
+n = input("input something please: ")
 print('Hello %s Dude!'%n);
